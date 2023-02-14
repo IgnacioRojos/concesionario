@@ -1,0 +1,21 @@
+[
+    {"img": "../assets/img/fiat punto.jpg","titulo":"fiat punto","cantidad":1, "id": 1, "descripcion":"Motor y transmisión: Cilindrada 1.368 N° de cilindros y disposición 4 en linea Potencia máxima (CV/rpm) 85 / 5.750" },
+    {"img": "../assets/img/vento.jpg","titulo": "Wolsvagen Vento","cantidad": 1, "id": 2, "descripcion":"Motor y transmisión: Cilindrada 1984 N° de cilindros y disposición 4 Potencia máxima (CV/rpm) 211"},
+    {"img": "../assets/img/bora.jpg","titulo": "Wolsvagen Bora","cantidad": 1,"id": 3,"descripcion":"Motor y transmisión: Cilindrada 1.781 N° de cilindros Valvulas 4 20V Potencia 180 CV " },
+    {"img": "../assets/img/chevrolet corsa.jpg","titulo":"Chevrolet Corsa","cantidad":1,"id": 4,"descripcion":"Motor y transmisión: Cilindrada 1.389 Número de Cilindros: 4 Potencia Máxima (CV): 60" },
+    {"img": "../assets/img/ford fiesta.jpg","titulo": "Ford Fiesta","cantidad":1,"id": 5,"descripcion":"Motor y transmisión: Cilindrada: 1.596 Número de Cilindros: 4 Potencia Máxima (CV): 120" },
+    {"img": "../assets/img/wolsvagen up.jpg","titulo": "wolsvagen up","cantidad":1,"id": 6,"descripcion":"Motor y transmisión: Cilindrada: 999 Número de cilindros: 3 Potencia máxima: 75 CV" },
+    {"img":"../assets/img/ford ka.jpg","titulo":"Ford Ka","cantidad":1,"id": 7,"descripcion":"Motor y transmisión: " },
+    {"img":"../assets/img/fiat siena.jpg","titulo":"Fiat Siena","cantidad":1,"id":8,"descripcion": "Motor y transmisión:"},
+    {"img":"../assets/img/yaris.jpg","titulo":"Toyota Yaris","cantidad":1,"id":9,"descripcion":"Motor y transmisión:" },
+    {"img":"../assets/img/toyota hilux.jpg","titulo":"Toyota Hilux","cantidad": 1, "id":10,"descripcion":"Motor y transmisión:" },
+    {"img":"../assets/img/ford raptor.jpg","titulo":"Ford Raptor","cantidad":1,"id": 11,"descripcion":"Motor y transmisión:" },
+    {"img":"../assets/img/fiat cronos.webp","titulo":"Fiat Cronos","cantidad":1,"id":12,"descripcion":"Motor y transmisión:" },
+    {"img":"../assets/img/gol trend.jpg","titulo":"Wolsvagen Gol Trend","cantidad":1,"id":13,"descripcion":"Motor y transmisión:" },
+    {"img":"../assets/img/polo trend.jpg","titulo": "Wolsvagen Polo Trend","cantidad":1,"id":14,"descripcion":"Motor y transmisión:" },
+    {"img":"../assets/img/cruze.jpg","titulo":"Chevrolet Cruze","cantidad":1,"id":15,"descripcion":"Motor y transmisión:" },
+    {"img":"../assets/img/fiat mobi.jpg","titulo":"Fiat Mobi","cantidad":1,"id":16,"descripcion":"Motor y transmisión:" },
+    {"img":"../assets/img/focus.jpg","titulo":"Ford Focus","cantidad":1,"id":17,"descripcion":"Motor y transmisión:" },
+    {"img":"../assets/img/jeep.jpg","titulo":"Jeep raneger","cantidad":1,"id":18,"descripcion": "Motor y transmisión:"}
+
+]
